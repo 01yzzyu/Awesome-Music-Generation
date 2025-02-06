@@ -10,6 +10,7 @@
 | 2024-10-19 | MaskGCT | CUHKSZ | [MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer](https://arxiv.org/pdf/2409.00750) | ICLR 2025 | [Github](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct) | 
 | 2025-10-04 | Audio-Agent | HKUST | [Audio-Agent: Leveraging LLMs for Audio Generation, Editing and Composition](https://arxiv.org/pdf/2410.03335) | Arxiv 2024 | Github | 
 | 2024-10-07 |  | Tsinghua | [Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer](https://arxiv.org/abs/2410.05151) | ICASSP 2025 | Github | 
+| 2024-09-19 | AudioComposer | CUHK | [AudioComposer: Towards Fine-grained Audio Generation with Natural Language Descriptions](https://arxiv.org/abs/2409.12560) | Arxiv 2024 | [Github](https://lavendery.github.io/AudioComposer/) | 
 | 2024-07-31 |  | Sorbonne Université | [Combining audio control and style transfer using latent diffusion](https://arxiv.org/abs/2408.00196) | ISMIR 2024 | [Github](https://github.com/NilsDem/control-transfer-diffusion) | 
 | 2024-07-23 | Audio Prompt Adapter | National Taiwan University | [Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning](https://arxiv.org/abs/2407.16564) | ISMIR 2024 | [Github](https://github.com/fundwotsai2001/ap-adapter)  |  
 | 2024-07-23 | Meerkat |  Maryland | [Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08071.pdf) | ECCV 2024 | [Github](https://github.com/schowdhury671/meerkat)  |  
