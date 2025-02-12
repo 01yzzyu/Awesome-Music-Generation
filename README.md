@@ -4,6 +4,7 @@
 | Date       | Keywords   | Institute (first) | Paper                                                                                                                          | Publication | Code | 
 | ---------- | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------- | ---- | 
 | 2024-11-06 |  | CMU | [Aligning Audio-Visual Joint Representations with an Agentic Workflow](https://openreview.net/forum?id=NGrINZyZKk) | NIPS 2024 | Github | 
+| 2024-11-06 | SongCreator | Tsinghua | [SongCreator: Lyrics-based Universal Song Generation](https://openreview.net/forum?id=NGrINZyZKk) | NIPS 2024 | Github | 
 | 2024-11-06 | | Polytechnic Institute of Paris | [An Eye for an Ear: Zero-shot Audio Description Leveraging an Image Captioner using Audiovisual Distribution Alignment](https://openreview.net/pdf?id=U6oQEzSp8z) | NIPS 2024 | [Github](https://github.com/hugomalard/AnEyeForAnEar) | 
 | 2024-11-06 | UniAudio 1.5 | CUHKSZ | [UniAudio 1.5: Large Language Model-Driven Audio Codec is A Few-Shot Audio Task Learner](https://openreview.net/forum?id=QMaLS4VeY3) | NIPS 2024 | [Github](https://github.com/yangdongchao/LLM-Codec) | 
 | 2024-10-19 | Vevo | SHAI Lab| [Vevo: Controllable Zero-Shot Voice Imitation with Self-Supervised Disentanglement](https://openreview.net/pdf?id=anQDiQZhDP) | ICLR 2025 | [Github](https://github.com/open-mmlab/Amphion/blob/main/models/vc/vevo/README.md) | 
