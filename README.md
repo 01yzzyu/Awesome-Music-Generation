@@ -3,6 +3,7 @@
 
 | Date       | Keywords   | Institute (first) | Paper                                                                                                                          | Publication | Code | 
 | ---------- | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------- | ---- | 
+| 2025-02-06 | XMusic |  Tencent | [XMusic: Towards a Generalized and Controllable Symbolic Music Generation Framework](https://arxiv.org/abs/2501.08809) | TMM 2025 | [Github](https://xmusic-project.github.io/) | 
 | 2024-11-06 |  | CMU | [Aligning Audio-Visual Joint Representations with an Agentic Workflow](https://openreview.net/forum?id=NGrINZyZKk) | NIPS 2024 | Github | 
 | 2024-11-06 | SongCreator | Tsinghua | [SongCreator: Lyrics-based Universal Song Generation](https://openreview.net/forum?id=NGrINZyZKk) | NIPS 2024 | Github | 
 | 2024-11-06 | | Polytechnic Institute of Paris | [An Eye for an Ear: Zero-shot Audio Description Leveraging an Image Captioner using Audiovisual Distribution Alignment](https://openreview.net/pdf?id=U6oQEzSp8z) | NIPS 2024 | [Github](https://github.com/hugomalard/AnEyeForAnEar) | 
